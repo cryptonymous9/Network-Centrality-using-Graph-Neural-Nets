@@ -1,3 +1,5 @@
+This was done as part of a project for CS328: Introduction to Data Science at IIT Gandhinagar.
+
 ## Fast and Approximate Network analysis using Graph Neural Networks (GNNs)
 
 In network analysis, the problem of finding influential nodes has high theoretical and practical significance. Centrality measures are common schemes that aims to find these influential nodes in a network. However, deterministically computing these values for individual node takes a lot of time and are computationally expensive. This problem elevates when the analysis is done for larger graphs. Getting an approximate estimates of these centrality measures with much lower time would be of great significance in network analysis. In this project, we aim to do the same using Graph Neural Networks (GNNs). We train a GNN based model on a synthetically generated dataset consisting of variety of networks to approximate these centrality values. Our tests on complex real networks datasets shows that GNN gives promising results in predicting these values along with a huge speed-up of nearly 80-times when compared to the currently used deterministic algorithms.
