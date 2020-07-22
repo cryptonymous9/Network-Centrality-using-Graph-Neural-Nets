@@ -1,4 +1,4 @@
-This was done as part of a project for CS328: Introduction to Data Science at IIT Gandhinagar.
+This was done as part of a project for course CS328: Introduction to Data Science, at IIT Gandhinagar.
 
 ## Fast and Approximate Network analysis using Graph Neural Networks (GNNs)
 
